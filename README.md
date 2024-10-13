@@ -1,14 +1,13 @@
 # Hi there, I am Tanishk 👋  
-🚀 Developer with experience in Python, Golang, and Web Automation.  
-🌱 Currently working on: Decentralized apps & CLI tools.  
-💬 Ask me about backend development, scraping, and chat systems.
+🚀 Developer with experience in Python, Golang, Kotlin, IOT and Web Scraping.  
+🌱 Currently working on: IOT and Android app development.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TanishkBansode&color=blue&style=flat-square)
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Golang, JavaScript  
-- **Frameworks:** Flask, FastAPI  
-- **Tools:** Docker, GitHub Actions  
+- **Languages:** Python, Golang, JavaScript, Rust, Kotlin
+- **Tools:** Docker, Postman
+- **Using ChatGPT since 2022**
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishkBansode&show_icons=true&theme=dark)  
