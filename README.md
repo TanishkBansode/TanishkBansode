@@ -26,4 +26,4 @@
 [![CLI-Chat](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=CLI-Chat)](https://github.com/TanishkBansode/CLI-Chat)
 
 ## 🚀 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tanishk-bansode-329833326/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tanishkbansode/)  
