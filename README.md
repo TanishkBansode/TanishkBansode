@@ -22,8 +22,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📌 Pinned Repositories
-[![Webscraping_websites](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=Webscraping_websites)](https://github.com/TanishkBansode/Webscraping_websites)  
 [![CLI-Chat](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=CLI-Chat)](https://github.com/TanishkBansode/CLI-Chat)
+
+[![Webscraping_websites](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=Webscraping_websites)](https://github.com/TanishkBansode/Webscraping_websites)  
+
 
 ## 🚀 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tanishkbansode/)  
