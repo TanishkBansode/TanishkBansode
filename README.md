@@ -16,16 +16,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanishkBansode&theme=radical)
 
-## 🏆 Badges
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ## 📌 Pinned Repositories
 [![CLI-Chat](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=CLI-Chat)](https://github.com/TanishkBansode/CLI-Chat)
 [![simple-blog](https://github-readme-stats.vercel.app/api/pin?username=TanishkBansode&repo=simple-blog)](https://github.com/TanishkBansode/simple-blog)
 [![Webscraping_websites](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=Webscraping_websites)](https://github.com/TanishkBansode/Webscraping_websites)  
 
-
-## 🚀 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tanishkbansode/)  
