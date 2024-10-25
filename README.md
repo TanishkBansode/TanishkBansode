@@ -2,7 +2,11 @@
 🚀 Developer with experience in Python, Golang, Kotlin, IOT and Web Scraping.  
 🌱 Currently working on: IOT and Android app development.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=TanishkBansode&color=blue&style=flat-square)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tanishkbansode/count.svg" />
+</p>
+
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Golang, JavaScript, Rust, Kotlin
