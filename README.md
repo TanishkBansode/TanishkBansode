@@ -2,12 +2,6 @@
 🚀 Developer with experience in Python, Golang, Kotlin, IOT and Web Scraping.  
 🌱 Currently working on: IOT and Android app development.  
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tanishkbansode/count.svg" />
-</p>
-
-
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Golang, JavaScript, Rust, Kotlin
 - **Tools:** Docker, Postman
@@ -26,3 +20,9 @@
 [![simple-blog](https://github-readme-stats.vercel.app/api/pin?username=TanishkBansode&repo=simple-blog)](https://github.com/TanishkBansode/simple-blog)
 [![Webscraping_websites](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=Webscraping_websites)](https://github.com/TanishkBansode/Webscraping_websites)  
 
+
+
+<p align="center"> 
+  Thanks for visiting! <br>
+  <img src="https://profile-counter.glitch.me/tanishkbansode/count.svg" />
+</p>
