@@ -17,7 +17,7 @@
 
 ## 📌 Pinned Repositories
 [![CLI-Chat](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=CLI-Chat)](https://github.com/TanishkBansode/CLI-Chat)
-[![simple-blog](https://github-readme-stats.vercel.app/api/pin?username=TanishkBansode&repo=simple-blog)](https://github.com/TanishkBansode/simple-blog)
+[![personal-archive](https://github-readme-stats.vercel.app/api/pin?username=TanishkBansode&repo=personal-archive)](https://github.com/TanishkBansode/personal-archive)
 [![Webscraping_websites](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=Webscraping_websites)](https://github.com/TanishkBansode/Webscraping_websites)  
 
 
