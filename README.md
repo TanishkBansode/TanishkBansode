@@ -15,13 +15,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanishkBansode&theme=radical)
 
 
-## 📌 Pinned Repositories
-[![CLI-Chat](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=CLI-Chat)](https://github.com/TanishkBansode/CLI-Chat)
-[![personal-archive](https://github-readme-stats.vercel.app/api/pin?username=TanishkBansode&repo=personal-archive)](https://github.com/TanishkBansode/personal-archive)
-[![Webscraping_websites](https://github-readme-stats.vercel.app/api/pin/?username=TanishkBansode&repo=Webscraping_websites)](https://github.com/TanishkBansode/Webscraping_websites)  
-
-
-
 <p align="center"> 
   Thanks for visiting! <br>
   <img src="https://profile-counter.glitch.me/tanishkbansode/count.svg" />
