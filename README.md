@@ -1,6 +1,6 @@
 # Hi there, I am Tanishk 👋  
 🚀 Developer with experience in Golang, Python, Kotlin and IOT(ESP32)   
-🌱 Currently working on: IOT and Android app development.  
+🌱 Currently working on: Exploring Golang  
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Golang, JavaScript, Rust, Kotlin
