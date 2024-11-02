@@ -1,11 +1,14 @@
 # Hi there, I am Tanishk 👋  
-🚀 Developer with experience in Python, Golang, Kotlin, IOT and Web Scraping.  
+🚀 Developer with experience in Golang, Python, Kotlin and IOT(ESP32)   
 🌱 Currently working on: IOT and Android app development.  
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Golang, JavaScript, Rust, Kotlin
 - **Tools:** Docker, Postman
 - **Using ChatGPT since 2022**
+- **Golang frameworks I've worked with**: Gin, fiber, Gorilla Mux
+- **Database**: MongoDB, SQLite
+Using ChatGPT since 2022
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishkBansode&show_icons=true&theme=dark)  
