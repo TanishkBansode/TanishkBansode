@@ -3,8 +3,8 @@
 🌱 Currently working on: Exploring Golang  
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Golang, JavaScript, Rust, Kotlin
-- **Tools:** Docker, Postman
+- **Languages:** Python, Golang, JavaScript, Rust, Kotlin, SQL
+- **Tools:** Docker, Postman, Thunderclient, GitButler
 - **Using ChatGPT since 2022**
 - **Golang frameworks I've worked with**: Gin, fiber, Gorilla Mux, modernc-sqlite, etc.
 - **Database**: MongoDB, SQLite
