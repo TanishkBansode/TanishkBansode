@@ -1,4 +1,5 @@
-# Hi there, I am Tanishk 👋  
+![Tanishk github intro 3](https://github.com/user-attachments/assets/2814af6f-ea66-4c02-b36c-14f4e0344bc0)
+
 🚀 Developer with experience in Golang, Python, Kotlin and IOT(ESP32)   
 🌱 Currently working on: Exploring Golang  
 
