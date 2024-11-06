@@ -1,7 +1,7 @@
 ![largerr](https://github.com/user-attachments/assets/9be97fb7-d72a-473c-9225-52aad257611d)
 
-🚀 Developer with experience in Golang, Python, Kotlin and IOT(ESP32)   
-🌱 Currently working on: Exploring Golang  
+<h4>🚀 Developer with experience in Golang, Python, Kotlin and IOT(ESP32)</h4>   
+<h4>🌱 Currently working on: Exploring Golang</h4>
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Golang, JavaScript, Rust, Kotlin, SQL
