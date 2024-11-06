@@ -1,4 +1,4 @@
-![small size](https://github.com/user-attachments/assets/11392f85-11dc-430f-8206-fe40e2a71c80)
+![larger](https://github.com/user-attachments/assets/1aa5c0a9-0ebe-4f85-a610-772f7fdbd3f6)
 
 🚀 Developer with experience in Golang, Python, Kotlin and IOT(ESP32)   
 🌱 Currently working on: Exploring Golang  
