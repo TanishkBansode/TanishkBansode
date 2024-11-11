@@ -3,6 +3,9 @@
 <h4>🚀 Developer with experience in Golang, Python, Kotlin and IOT(ESP32)</h4>   
 <h4>🌱 Currently working on: Exploring Golang</h4>
 
+![roadmap.sh](https://roadmap.sh/card/wide/67272e8431d65c235d540adf?variant=dark&roadmaps=golang)
+
+
 ## 🔧 Technologies & Tools
 - **Languages:** Python, Golang, JavaScript, Rust, Kotlin, SQL
 - **Tools:** Docker, Postman, GitButler, Ngrok
