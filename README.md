@@ -9,7 +9,7 @@
 - **Languages:** Python, Golang, JavaScript, Rust, Kotlin, SQL
 - **Tools:** Docker, Postman, GitButler, Ngrok
 - **Using ChatGPT since 2022**
-- **Golang frameworks I've worked with**: Gin, fiber, Gorilla Mux, modernc-sqlite, etc.
+- **Golang frameworks I've worked with**: Gin, fiber, Gorilla Mux, Wails, modernc-sqlite, etc.
 - **Database**: MongoDB, SQLite
 Using ChatGPT since 2022
 
