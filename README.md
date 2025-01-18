@@ -11,7 +11,6 @@
 - **Using ChatGPT since 2022**
 - **Golang frameworks I've worked with**: Gin, fiber, Gorilla Mux, Wails, modernc-sqlite, etc.
 - **Database**: MongoDB, SQLite
-Using ChatGPT since 2022
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishkBansode&show_icons=true&theme=dark)  
