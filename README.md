@@ -17,7 +17,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkBansode&layout=compact&theme=dark)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanishkBansode&theme=radical)
 
 
 <p align="center"> 
