@@ -3,8 +3,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishkBansode&show_icons=true&theme=dark)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkBansode&layout=compact&theme=dark)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishkBansode&layout=compact&theme=dark&hide=jupyter%20notebook)
 
 
 <p align="center"> 
