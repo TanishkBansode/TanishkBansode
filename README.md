@@ -7,5 +7,4 @@
 
 <p align="center"> 
   Thanks for visiting! <br>
-  <img src="https://profile-counter.glitch.me/tanishkbansode/count.svg" />
 </p>
