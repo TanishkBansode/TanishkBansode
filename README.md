@@ -13,12 +13,13 @@ I like building useful (to me) software and exploring all the “what ifs” alo
 
 ## What I'm interested in
 
-Interested in AI (especially fine-tuning new models), the web, finance, ~~bettin-~~ prediction markets, and whatever else catches my attention.
+Interested in AI (especially fine-tuning new models), the web, finance, ~~bettin~~ prediction markets, and whatever else catches my attention.
 
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/tanishkbansode/)
-- [LeetCode](https://leetcode.com/u/bansodetanishk/) 
+- [LeetCode](https://leetcode.com/u/bansodetanishk/)
+- [Kaggle](https://www.kaggle.com/bansodetanishk)
 
 
 ### 🔝 Top Projects I've Contributed to
