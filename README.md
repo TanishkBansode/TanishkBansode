@@ -11,6 +11,11 @@ I like building useful (to me) software and exploring all the “what ifs” alo
 - **[DPP Quiz Generator](https://github.com/TanishkBansode/dpp-quiz-generator)** — Turns question papers into online tests and generates answers with explanations.
 - **[Wangchuk Tracker](https://github.com/TanishkBansode/wangchuk-tracker)** - AI News aggregator using LLMs and Embeddings.
 
+
+## What If
+- **[Laya tries to predict next node in Travelling Salesman Problem](https://github.com/TanishkBansode/TSP-Laya)**
+
+  
 ## What I'm interested in
 
 Interested in AI (especially fine-tuning new models), the web, finance, ~~bettin~~ prediction markets, and whatever else catches my attention.
